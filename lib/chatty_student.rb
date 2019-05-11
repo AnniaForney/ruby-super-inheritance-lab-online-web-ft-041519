@@ -1,4 +1,4 @@
-class ChattyStudent
+class ChattyStudent < Student
 
   def initialize()
   end
@@ -7,4 +7,5 @@ class ChattyStudent
     "Hello"
   end
 
+def
 end
