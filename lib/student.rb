@@ -4,7 +4,8 @@ class Student
     puts "Hey there! I'm so excited to learn stuff."
   end
 
-  def raise_hand
+  def raise_hand(n)
+  n.super.times do |n| 
     super
     puts "Pick me!"
   end
