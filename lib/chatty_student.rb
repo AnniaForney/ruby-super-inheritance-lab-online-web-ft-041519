@@ -3,8 +3,8 @@ class ChattyStudent
 
 def initialize(chatty_student)
   @chatty_student = chatty_student
-end 
+end
   def hello
     puts "hello"
-  end 
+  end
 end
