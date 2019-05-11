@@ -1,11 +1,10 @@
 class ChattyStudent
   attr_accessor :chatty_student
 
-  def initialize(chatty_student)
-    @chatty_student = chatty_student
+  def initialize()
   end
 
-  def hello
+  def greeting 
     "Hello!"
   end
 end
