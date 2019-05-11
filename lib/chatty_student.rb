@@ -1,2 +1,3 @@
 class ChattyStudent
-end 
+  
+end
