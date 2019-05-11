@@ -6,4 +6,5 @@ class ChattyStudent
   def greeting
     "Hello"
   end
+
 end
