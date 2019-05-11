@@ -1,7 +1,7 @@
 class Student
-  attr_accessor :student :greeting
+  attr_accessor :student, :greeting
 
-  def hello 
+  def hello
     "Hello!"
   end
 end
