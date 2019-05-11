@@ -1,4 +1,4 @@
-class Student < ChattyStudent
+class Student 
 
   def hello
     puts "Hey there! I'm so excited to learn stuff."
