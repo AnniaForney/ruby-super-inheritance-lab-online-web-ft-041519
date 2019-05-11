@@ -5,4 +5,7 @@ class ChattyStudent
     @chatty_student = chatty_student
   end
 
+  def greeting
+    puts "Hello!"
+  end 
 end
