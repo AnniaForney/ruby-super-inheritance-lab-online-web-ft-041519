@@ -4,5 +4,5 @@ class ChattyStudent
   def initialize(chatty_student)
     @chatty_student = chatty_student
   end
-  
+
 end
