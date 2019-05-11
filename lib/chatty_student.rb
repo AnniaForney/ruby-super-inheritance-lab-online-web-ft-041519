@@ -3,6 +3,7 @@ class ChattyStudent < Student
   def hello
     puts "Hey there! I'm so excited to learn stuff."
   end
+  long_chatty_phrase 
   end
 
   def raise_hand
