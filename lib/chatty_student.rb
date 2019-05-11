@@ -4,7 +4,7 @@ class ChattyStudent
   def initialize()
   end
 
-  def greeting 
+  def greeting
     "Hello!"
   end
 end
