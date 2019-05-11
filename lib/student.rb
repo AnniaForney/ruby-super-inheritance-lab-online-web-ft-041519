@@ -2,7 +2,7 @@ class Student
   attr_accessor :student
 
 
-  def hello
-    "Hello!"
+  def greeting
+    puts "Hello!"
   end
 end
