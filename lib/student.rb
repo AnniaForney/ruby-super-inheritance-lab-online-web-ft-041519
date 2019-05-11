@@ -6,7 +6,6 @@ class Student
 
   def raise_hand
     super
-    raise_hand = true 
     puts "Pick me!"
 
   end
