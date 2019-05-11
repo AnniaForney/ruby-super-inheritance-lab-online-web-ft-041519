@@ -5,8 +5,7 @@ class Student
   end
 
   def raise_hand(n)
-  n.super.times do |n| 
-    super
+  n.super.times do  
     puts "Pick me!"
   end
 end
