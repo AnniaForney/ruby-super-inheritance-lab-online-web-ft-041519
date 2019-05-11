@@ -1,6 +1,6 @@
 class ChattyStudent
 
-  def initialize() 
+  def initialize()
   end
 
   def greeting
