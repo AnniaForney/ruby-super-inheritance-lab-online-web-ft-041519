@@ -3,6 +3,6 @@ class Student
 
 
   def greeting
-    puts "Hello!"
+    "Hello!"
   end
 end
